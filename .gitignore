@@ -38,3 +38,6 @@ Saved/AutoScreenshot.png
 Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 Saved/Crashes/UECC-Windows-8168CC5747B96ACCA9EC349A56AE68B6_0000/CrashContext.runtime-xml
 Saved/Crashes/UECC-Windows-8168CC5747B96ACCA9EC349A56AE68B6_0000/UEMinidump.dmp
+*.log
+*.ini
+Saved/AutoScreenshot.png
