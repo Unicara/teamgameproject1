@@ -735,3 +735,7 @@ Recommended: 516.25
 [2022.09.05-18.31.01:461][954]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002264s (5.271306s overbudget)
 [2022.09.05-18.31.01:847][954]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21268
 [2022.09.05-18.31.01:847][954]LogSlate: Took 0.021285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.05-18.31.03:311][954]LogAutomationController: Ignoring very large delta of 59.85 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.09.05-18.31.03:404][955]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{468e7429-8a4d-438f-aa2f-e8b8f8408e99}, Name=Speakers/Headphones (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=228.98
+[2022.09.05-18.31.03:507][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.09.05-18.31.03:908][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
